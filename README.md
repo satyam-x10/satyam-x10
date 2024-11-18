@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/satyamx10" target="blank"><img src="https://img.shields.io/twitter/follow/satyamx10?logo=twitter&style=for-the-badge" alt="satyamx10" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://satyam-x10.github.io/portfolio/](https://satyam-x10.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [here](https://satyamx10-portfolio.vercel.app/)
 
 - 📫 How to reach me **satyamx10@gmail.com**
 
